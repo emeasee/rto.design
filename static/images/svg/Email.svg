@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Email" transform="translate(12542 10227)">
+    <path id="Box" d="M0,0H32V32H0Z" transform="translate(-12542 -10227)" fill="none"/>
+    <path id="Icon" d="M25.224,4H4.58A2.575,2.575,0,0,0,2.013,6.576L2,22.033a2.586,2.586,0,0,0,2.58,2.576H25.224a2.586,2.586,0,0,0,2.58-2.576V6.576A2.586,2.586,0,0,0,25.224,4Zm0,5.152L14.9,15.593,4.58,9.152V6.576L14.9,13.017l10.322-6.44Z" transform="translate(-12541 -10225)"/>
+  </g>
+</svg>
