@@ -20,7 +20,7 @@ function GigfundingPlatform() {
         line2="Studio"
         line2B="Freelance"
         line3="Client"
-        line3B="Gigfunding"
+        line3B="<a href='http://www.google.com'>Gigfunding</a>"
         line4="Date"
         line4B="2020"
       />

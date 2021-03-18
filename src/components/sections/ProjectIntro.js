@@ -30,11 +30,11 @@ export default function ProjectIntro(props) {
             </Details>
             <Details>
               <DetailName>{props.line2}</DetailName>
-              <DetailInput>{props.line2B}</DetailInput>
+              <DetailInput dangerouslySetInnerHTML={{__html: props.line2B}} />
             </Details>
             <Details>
               <DetailName>{props.line3}</DetailName>
-              <DetailInput>{props.line3B}</DetailInput>
+              <DetailInput dangerouslySetInnerHTML={{__html: props.line3B}} /> 
             </Details>
             <Details>
               <DetailName>{props.line4}</DetailName>
